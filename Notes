@@ -3,5 +3,3 @@ git pull
 git add * 
 git commit -m ""
 git push
-
-Token: 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
