@@ -4,10 +4,18 @@ center{
 p{
     margin-left: 30px
 }
-img{
+#W1{
     position: absolute;
     width: 150px;
-    top: 20%;
+    top: 18%;
+    right: 10%;
+    border: solid 10px black;
+}
+
+#W2{
+    position: absolute;
+    width: 150px;
+    top: 53%;
     right: 10%;
     border: solid 10px black;
 }
