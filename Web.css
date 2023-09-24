@@ -4,23 +4,34 @@ center{
 p{
     margin-left: 30px
 }
-img{
+img, video{
     position: absolute;
-    width: 100px;
-    right: 10%;
     border: solid 10px black;
 }
 #W1{
-    top: 25%;
+    top: 135px;
+    height: 120px;
+    right: 10%;
 }
 
 #W2{
-    top: 52%;
+    top: 290px;
+    width: 120px;
+    right: 10%;
 }
 
 #W3{
-    top: 79%;
+    top: 442px;
+    height: 100px;
+    right: 9.25%;
 }
 #W4{
-    top: 103%;
+    top: 585px;
+    height: 110px;
+    right: 7%;
+}
+#W5{
+    top: 760px;
+    width: 200px;
+    right: 5%;
 }
