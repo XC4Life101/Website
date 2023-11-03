@@ -57,8 +57,14 @@ img, video{
     right: 5%;
 }
 #W10{
-    top: 1550px;
+    top: 1545px;
     width: 200px;
-    height: 150px;
+    height: 140px;
     right: 7%;
+}
+#W11{
+    top: 1730px;
+    height: 150px;
+    width: 240px;
+    right: 3%;
 }
