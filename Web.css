@@ -63,8 +63,14 @@ img, video{
     right: 7%;
 }
 #W11{
-    top: 1730px;
+    top: 1715px;
+    height: 105px;
+    width: 210px;
+    right: 3%;
+}
+#W12{
+    top: 1855px;
     height: 150px;
-    width: 240px;
+    width: 250px;
     right: 3%;
 }
