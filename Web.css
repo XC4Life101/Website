@@ -70,7 +70,13 @@ img, video{
 }
 #W12{
     top: 1855px;
-    height: 150px;
+    height: 110px;
+    width: 195px;
+    right: 5%;
+}
+#W13{
+    top: 2000px;
+    height: 110px;
     width: 250px;
     right: 3%;
 }
