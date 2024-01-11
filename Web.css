@@ -9,73 +9,109 @@ img, video{
     border: solid 10px black;
 }
 #W1{
-    top: 135px;
+    top: 19%;
     height: 120px;
     right: 10%;
 }
 
 #W2{
-    top: 290px;
+    top: 41.5%;
     width: 120px;
     right: 10%;
 }
 
 #W3{
-    top: 442px;
+    top: 63.5%;
     height: 100px;
     right: 9.25%;
 }
 #W4{
-    top: 585px;
+    top: 85%;
     height: 110px;
     right: 7%;
 }
 #W5{
-    top: 760px;
+    top: 109%;
     width: 200px;
     right: 5%;
 }
 #W6{
-    top: 918px;
+    top: 132%;
     height: 120px;
     right: 7%;
 }
 #W7{
-    top: 1075px;
+    top: 155%;
     width: 140px;
     height: 110px;
     right: 7%;
 }
 #W8{
-    top: 1222px;
+    top: 176%;
     height: 120px;
     right: 5%;
 }
 #W9{
-    top: 1385px;
+    top: 199%;
     height: 120px;
     right: 5%;
 }
 #W10{
-    top: 1545px;
+    top: 222%;
     width: 200px;
     height: 140px;
     right: 7%;
 }
 #W11{
-    top: 1715px;
+    top: 247%;
     height: 105px;
     width: 210px;
     right: 3%;
 }
 #W12{
-    top: 1855px;
+    top: 267%;
     height: 110px;
     width: 195px;
     right: 5%;
 }
 #W13{
-    top: 2000px;
+    top: 289%;
+    height: 110px;
+    width: 250px;
+    right: 3%;
+}
+#W14{
+    top: 311%;
+    height: 110px;
+    width: 250px;
+    right: 3%;
+}
+#1W15{
+    top: 333%;
+    height: 110px;
+    width: 250px;
+    right: 3%;
+}
+#2W15{
+    top: 355%;
+    height: 110px;
+    width: 250px;
+    right: 3%;
+}
+#3W15{
+    top: 377%;
+    height: 110px;
+    width: 250px;
+    right: 3%;
+}
+#4W15{
+    top: 399%;
+    height: 110px;
+    width: 250px;
+    right: 3%;
+}
+#5W15{
+    top: 413%;
     height: 110px;
     width: 250px;
     right: 3%;
