@@ -86,33 +86,31 @@ img, video{
     width: 250px;
     right: 3%;
 }
-#1W15{
-    top: 333%;
+#W151{
     height: 110px;
     width: 250px;
-    right: 3%;
 }
-#2W15{
-    top: 355%;
+#W152{
     height: 110px;
     width: 250px;
-    right: 3%;
+    left: 30%;
 }
-#3W15{
-    top: 377%;
+#W153{
     height: 110px;
     width: 250px;
-    right: 3%;
 }
-#4W15{
-    top: 399%;
+#W154{
     height: 110px;
     width: 250px;
-    right: 3%;
+    left: 30%;
 }
-#5W15{
-    top: 413%;
+#W155{
     height: 110px;
     width: 250px;
-    right: 3%;
+}
+h2{
+    margin-left: 30px
+}
+ol{
+    margin-left: 40px
 }
