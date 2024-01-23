@@ -9,82 +9,82 @@ img, video{
     border: solid 10px black;
 }
 #W1{
-    top: 19%;
+    top: 130px;
     height: 120px;
     right: 10%;
 }
 
 #W2{
-    top: 41.5%;
+    top: 280px;
     width: 120px;
     right: 10%;
 }
 
 #W3{
-    top: 63.5%;
+    top: 425px;
     height: 100px;
     right: 9.25%;
 }
 #W4{
-    top: 85%;
-    height: 110px;
+    top: 565px;
+    height: 120px;
     right: 7%;
 }
 #W5{
-    top: 109%;
+    top: 730px;
     width: 200px;
-    right: 5%;
+    right: 7.5%;
 }
 #W6{
-    top: 132%;
+    top: 883px;
     height: 120px;
-    right: 7%;
+    right: 9%;
 }
 #W7{
-    top: 155%;
+    top: 1035px;
     width: 140px;
     height: 110px;
-    right: 7%;
+    right: 9.5%;
 }
 #W8{
-    top: 176%;
+    top: 1178px;
     height: 120px;
-    right: 5%;
+    right: 7%;
 }
 #W9{
-    top: 199%;
+    top: 1330px;
     height: 120px;
-    right: 5%;
+    right: 6.75%;
 }
 #W10{
-    top: 222%;
+    top: 1488px;
     width: 200px;
     height: 140px;
     right: 7%;
 }
 #W11{
-    top: 247%;
+    top: 1652px;
     height: 105px;
     width: 210px;
-    right: 3%;
+    right: 6.75%;
 }
 #W12{
-    top: 267%;
+    top: 1788px;
     height: 110px;
     width: 195px;
-    right: 5%;
+    right: 7%;
 }
 #W13{
-    top: 289%;
+    top: 1930px;
     height: 110px;
     width: 250px;
-    right: 3%;
+    right: 5.5%;
 }
 #W14{
-    top: 311%;
+    top: 2080px;
     height: 110px;
     width: 250px;
-    right: 3%;
+    right: 5.5%;
 }
 #W151{
     height: 110px;
@@ -115,8 +115,14 @@ ol{
     margin-left: 40px
 }
 #M1{
-    top: 450%;
+    top: 3025px;
     height: 150px;
     width: 250px;
-    right: 3%;
+    right: 5%;
+}
+#M2{
+    top: 3205px;
+    height: 120px;
+    width: 250px;
+    right: 5%;
 }
