@@ -169,8 +169,38 @@ ol{
     right: 4%;
 }
 #M9{
-    top: 4290px;
+    top: 4285px;
+    height: 120px;
+    width: 210px;
+    right: 4%;
+}
+#M101{
+    top: 4450px;
     height: 140px;
+    width: 140px;
+    right: 12%;
+}
+#M102{
+    top: 4450px;
+    height: 140px;
+    width: 140px;
+    right: 1%;
+}
+#M103{
+    top: 4450px;
+    height: 140px;
+    width: 140px;
+    right: 23%;
+}
+#M11{
+    top: 4635px;
+    height: 120px;
+    width: 220px;
+    right: 4%;
+}
+#M12{
+    top: 4785px;
+    height: 120px;
     width: 220px;
     right: 4%;
 }
